@@ -1,4 +1,4 @@
-# Python Web Scrapping Assignment.
+# Python Web Scrapping .
 
 Note:
 - Create new environment using conda create --name myenv.
